@@ -18,11 +18,13 @@ Designed for **Low-Resource Environments** (Intel i3 / No GPU).
 
 
 2. Python Dependencies:
+      ```bash
    pip install -r requirements.txt
 
 ⚡ Usage 
 
 1. Launch the System:
+      ```bash
    chmod +x sentineleye_launch.sh
    ./sentineleye_launch.sh
 
